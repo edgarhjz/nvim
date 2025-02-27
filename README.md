@@ -11,5 +11,8 @@ https://neovim.io
 ## LazyVim
 https://www.lazyvim.org
 
+https://github.com/user-attachments/assets/48749832-3c5e-4ac2-8639-613bd7d6ff8f
+
+
 # Credits
 The Neovim configuration was created from scratch following the Josean Martinez website: https://www.josean.com/posts/nvim-treesitter-and-textobjects
