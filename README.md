@@ -11,7 +11,8 @@ https://neovim.io
 ## LazyVim
 https://www.lazyvim.org
 
-https://github.com/user-attachments/assets/48749832-3c5e-4ac2-8639-613bd7d6ff8f
+#
+![Screenshot 2025-02-27 at 8 15 45 a m](https://github.com/user-attachments/assets/3a73b9a4-e096-4fca-9a24-dfee6106c6c3)
 
 
 # Credits
