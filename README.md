@@ -2,6 +2,7 @@
 
   - You can update the folder "edgar" with your name.
   - Also, you will need to change the path in the files, where it points to "edgar" folder.
+  - This configuration can be used in Linux and Windows (with Linux Subsystem - WSL)
 
 ## To download the tools, you can find the links below
 
