@@ -4,6 +4,10 @@
   - Also, you will need to change the path in the files, where it points to "edgar" folder.
   - This configuration can be used in Linux and Windows (with Linux Subsystem - WSL)
 
+## Dependencies
+  - Utils: git, make, unzip, gcc
+  - Nerd font: https://www.nerdfonts.com
+
 ## To download the tools, you can find the links below
 
 ## NeoVim 
